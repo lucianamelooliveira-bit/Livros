@@ -13,7 +13,7 @@ body{
 }
 .cabecalho{
 text-align: center;
-background-color: azure;
+background-color: rgb(131, 182, 182);
 padding:  30px;
 }
 main{
@@ -22,4 +22,12 @@ color: rgb(0, 0, 0);
 max-width: 800px;
 margin: 0 auto;
 padding: 16px;
+}
+article{
+display: flex;
+
+}
+img{
+width: 80px;
+height: 80px;
 }
